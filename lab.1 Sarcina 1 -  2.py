@@ -36,19 +36,19 @@ txt = "More results from text..."
 substr = txt[4:12]
 print(substr)
 print(substr.strip()) 
-# printeaza " results" si "results" ,.strip elimina spatiile goale
+
 
 #b)
 txt = "More results from text..."
 print(txt.split())
-# desparte propozitia pe cuvinte
+
 
 
 #c)
 age = 36
 txt = "My name is Mary, and I am {}"
 print(txt.format(age))
-# atribuie variabilei age valoare in textul "My name is Mary, and I am {}" inlocuind valoarea 36
+
 
 
 
